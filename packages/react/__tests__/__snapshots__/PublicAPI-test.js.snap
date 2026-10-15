@@ -3560,6 +3560,9 @@ Map {
       "enableTreeviewControllable": {
         "type": "bool",
       },
+      "enableV12Autoalign": {
+        "type": "bool",
+      },
       "enableV12DynamicFloatingStyles": {
         "type": "bool",
       },
@@ -10648,6 +10651,9 @@ Map {
         "type": "oneOf",
       },
       "slug": [Function],
+      "tabIndex": {
+        "type": "number",
+      },
       "title": [Function],
       "type": {
         "args": [
@@ -11841,6 +11847,9 @@ Map {
         "type": "bool",
       },
       "enableTreeviewControllable": {
+        "type": "bool",
+      },
+      "enableV12Autoalign": {
         "type": "bool",
       },
       "enableV12DynamicFloatingStyles": {
@@ -14152,6 +14161,9 @@ Map {
         "type": "bool",
       },
       "enableTreeviewControllable": {
+        "type": "bool",
+      },
+      "enableV12Autoalign": {
         "type": "bool",
       },
       "enableV12DynamicFloatingStyles": {
